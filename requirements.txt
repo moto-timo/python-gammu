@@ -5,3 +5,4 @@ packaging
 scrutinizer-ocular
 setuptools >= 38.6.0
 wheel >= 0.31.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
